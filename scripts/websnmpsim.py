@@ -64,6 +64,8 @@ from twisted.web.server import Site
 import twisted.web.resource
 from twisted.internet import reactor, protocol
 from twisted.web.static import File, DirectoryLister, getTypeAndEncoding, formatFileSize
+from snmpsim import __version__
+
 
 
 class MyDirectoryLister(DirectoryLister):
