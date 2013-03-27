@@ -29,7 +29,7 @@ To use the websnmpsim.py program:
   select a file, then click Add. It will be placed in the current directory.
 - Ctl-C in the terminal window to abort both the Web GUI and snmpsimd.py
 
-Prequisites: You may need to install the following packages/modules 
+Prerequisites: You may need to install the following packages/modules 
 	before snmpsimd.py and websnmpsim.py will run:
 - easy_install (install this first to get the others)
 - twisted
