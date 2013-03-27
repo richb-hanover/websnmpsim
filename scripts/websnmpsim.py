@@ -116,8 +116,8 @@ class MyDirectoryLister(DirectoryLister):
 Each is addressed by a different community string listed in the rightmost column.
 For more information, visit the
 <a href=\"http://snmpsim.sourceforge.net\" target=\"_blank\">snmpsim project</a>
-on sourceforge.net or <a href=\"https://bitbucket.org/intermapper/snmpsim/src\" target=\"_blank\">
-get the source</a> from bitbucket.org.</p>
+on sourceforge.net or <a href=\"https://github.com/richb-hanover/websnmpsim\" target=\"_blank\">
+get the source</a> from github.com.</p>
 <p>The snmpsim simulator is currently listening on the address %(ip)s, port %(port)s.
 Send SNMP queries to this address &amp; port using one of
 the community strings listed below to see the responses.
