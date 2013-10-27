@@ -52,3 +52,7 @@ changes back to the snmpsim project. http://snmpsim.sourceforge.net
 Rich Brown  
 Hanover NH USA  
 richb.hanover@gmail.com
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/richb-hanover/websnmpsim/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
